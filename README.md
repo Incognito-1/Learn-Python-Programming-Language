@@ -13,6 +13,7 @@
 
 
 ###### PLEASE NOTE THE FOLLOWING :
+
 ## Updates
 - Every topic will have its own directory. Updates to each directory
 will be carried out when a subject and its objectives are fully covered. 

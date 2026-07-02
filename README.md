@@ -1,7 +1,5 @@
 <h1>Learn Python for Data Science</h1>
-
-This repository contains my learning journey and practice projects in **Python for Data Science**. It includes notes, exercises, and small projects covering the core tools and concepts used in data science workflows.
-
+T
 ## 📌 Topics Covered
 
 - Python fundamentals for data science

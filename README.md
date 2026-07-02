@@ -1,5 +1,5 @@
 <h1>Learn Python for Data Science</h1>
-T
+
 ## 📌 Topics Covered
 
 - Python fundamentals for data science
